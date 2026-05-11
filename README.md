@@ -12,6 +12,8 @@
 **`computer engineering student · vibe coder · freelancer · web developer`**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mainportfolio1.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://mainportfolio1.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabb_Willard-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabb-willard-t-de-leon-863932371/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/eqJDArHWAs)
 [![Open for Commission](https://img.shields.io/badge/💼_Commissions-OPEN-00ff88?style=flat-square)](#)
 
 </div>
@@ -63,7 +65,7 @@ Got a project in mind? Let's build it together.
 - 🐍 Python Scripts & Automation
 - 🎨 UI Design & Frontend Work
 
-> **DM me or reach out through my [portfolio](https://mainportfolio1.netlify.app/)**
+> **Hit me up on [Discord](https://discord.com/invite/eqJDArHWAs), [LinkedIn](https://www.linkedin.com/in/gabb-willard-t-de-leon-863932371/), or through my [portfolio](https://mainportfolio1.netlify.app/)**
 
 ---
 
