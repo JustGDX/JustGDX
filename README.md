@@ -61,6 +61,8 @@ If you like my work and want to support me, you can fuel the grind here:
 
 💸 **Maya (PayMaya):**
 
+<img src="maya.jpg" width="180" />
+
 <div align="center">
 
 ---
