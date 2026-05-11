@@ -51,7 +51,19 @@ Got a project in mind? Let's build it together.
 
 ---
 
+---
+
+### ☕ Send Me a Coffee
+
+If you like my work and want to support me, you can fuel the grind here:
+
 <div align="center">
+
+💸 **Maya (PayMaya):**
+
+<div align="center">
+
+---
 
 *— built different, coded with vibes —*
 
