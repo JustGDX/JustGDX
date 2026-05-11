@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>GDX</h1>
+<h1>JustGDX</h1>
 
 --- 
 **`computer engineering student · vibe coder · freelancer · web developer`**
