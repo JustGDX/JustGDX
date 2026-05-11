@@ -27,7 +27,7 @@ Hey, I'm **GDX** — a Computer Engineering student who builds things for the we
 - 🎓 Currently studying **Computer Engineering**
 - 💻 Freelance **Web Developer** — open for commissions
 - ⚡ I build fast, I build clean, I build *with the vibe*
-- 🌐 Check my work → [mainportfolio1.netlify.app](https://mainportfolio1.netlify.app/)
+- 🌐 Portfolio → [Portfolio](https://mainportfolio1.netlify.app/) *(not fully updated — check my pinned repos for latest work)*
 
 ---
 
