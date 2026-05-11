@@ -49,7 +49,7 @@ Hey, I'm **GDX** — a Computer Engineering student who builds things for the we
 
 <div align="center">
 
-![GDX's GitHub Stats]([![GDX's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustGDX)](https://github.com/JustGDX/github-readme-stats))
+[![GDX's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustGDX)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustGDX&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff)
 
