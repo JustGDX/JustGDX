@@ -1,8 +1,10 @@
 <div align="center">
 
+<div align="center">
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=GDX" alt="GDX" />
 </h1>
+</div>
  
 **`computer engineering student · vibe coder · freelancer · web developer`**
 
