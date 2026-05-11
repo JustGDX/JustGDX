@@ -1,14 +1,5 @@
 <div align="center">
-
-​```
- ██████╗ ██████╗ ██╗  ██╗
-██╔════╝ ██╔══██╗╚██╗██╔╝
-██║  ███╗██║  ██║ ╚███╔╝ 
-██║   ██║██║  ██║ ██╔██╗ 
-╚██████╔╝██████╔╝██╔╝ ██╗
- ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
-​```
-
+ 
 **`computer engineering student · vibe coder · freelancer · web developer`**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mainportfolio1.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://mainportfolio1.netlify.app/)
