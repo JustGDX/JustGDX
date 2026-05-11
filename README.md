@@ -31,7 +31,7 @@ Hey, I'm **GDX** — a Computer Engineering student who builds things for the we
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
