@@ -1,10 +1,11 @@
 <div align="center">
 
-# GDX
-
-![Bugs](https://img.shields.io/badge/bugs-unlimited-red)
-![Status](https://img.shields.io/badge/status-glitchy-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
+     ██████╗ ██████╗ ██╗  ██╗
+    ██╔════╝ ██╔══██╗╚██╗██╔╝
+    ██║  ███╗██████╔╝ ╚███╔╝
+    ██║   ██║██╔══██╗ ██╔██╗
+    ╚██████╔╝██║  ██║██╔╝ ██╗
+     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
  
 **`computer engineering student · vibe coder · freelancer · web developer`**
 
