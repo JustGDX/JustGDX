@@ -39,7 +39,7 @@ Hey, I'm **GDX** — a Computer Engineering student who builds things for the we
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![GHL](https://img.shields.io/badge/GHL-GoHighLevel-2563EB?style=for-the-badge&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-GHL-2563EB?style=for-the-badge)
 
 </div>
 
